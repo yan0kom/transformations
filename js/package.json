@@ -1,0 +1,19 @@
+{
+  "name": "transform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "transform": "./bin/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "sax-parser": "^2.0.1",
+    "xml2js": "^0.4.23",
+    "xmlbuilder": "^15.1.1"
+  }
+}

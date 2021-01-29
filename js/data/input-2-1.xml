@@ -1,0 +1,12 @@
+<ns1:input xmlns:ns1="ns1:test" xmlns:ns2="ns2:test">
+  <ns1:element id="1">
+    <ns2:field1>1</ns2:field1>
+    <ns2:field2>2</ns2:field2>
+    <ns2:field3>3</ns2:field3>
+  </ns1:element>
+  <ns1:element id="2">
+    <ns2:field1>4</ns2:field1>
+    <ns2:field2>5</ns2:field2>
+    <ns2:field3>6</ns2:field3>
+  </ns1:element>
+</ns1:input>
